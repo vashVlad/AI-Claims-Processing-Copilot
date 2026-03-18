@@ -86,7 +86,12 @@ Structured Data (JSON)
 
 ## 📸 Demo
 
-*(Add screenshots here — VERY IMPORTANT)*
+<img width="2880" height="1449" alt="Screenshot 2026-03-18 133026" src="https://github.com/user-attachments/assets/88abd9bd-c585-433f-a1b2-a2c5893b1a48" />
+
+<img width="2880" height="1428" alt="Screenshot 2026-03-18 132308" src="https://github.com/user-attachments/assets/4f730cf7-fc7f-4f1a-b9c2-11bf59db9ab6" />
+
+<img width="2880" height="866" alt="Screenshot 2026-03-18 132321" src="https://github.com/user-attachments/assets/8d6988ea-7265-473b-a82a-d5e22fd75a03" />
+
 
 ---
 
@@ -106,15 +111,6 @@ This system demonstrates how AI can:
 This is a prototype designed for demonstration purposes only.
 
 All decisions should be reviewed by a human adjuster.
-
----
-
-## 📸 Demo
-
-<img width="2880" height="1519" alt="Screenshot 2026-03-17 231823" src="https://github.com/user-attachments/assets/4e8f34da-d1b5-4faa-bd72-a1de73dc3843" />
-<img width="2880" height="1432" alt="Screenshot 2026-03-17 231850" src="https://github.com/user-attachments/assets/c9736a25-bd07-438d-8b1f-ab4995a22cf8" />
-<img width="2880" height="967" alt="Screenshot 2026-03-17 232420" src="https://github.com/user-attachments/assets/76bb57c7-6ddb-41c1-a13f-5327403f09d0" />
-
 
 
 ---
