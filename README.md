@@ -92,7 +92,8 @@ Structured Data (JSON)
 
 <img width="2880" height="866" alt="Screenshot 2026-03-18 132321" src="https://github.com/user-attachments/assets/8d6988ea-7265-473b-a82a-d5e22fd75a03" />
 
-📹Video - https://www.loom.com/share/94f9db91b571464e9852d4a949d59834
+📹 https://www.loom.com/share/94f9db91b571464e9852d4a949d59834
+
 ---
 
 ## 📈 Business Impact
