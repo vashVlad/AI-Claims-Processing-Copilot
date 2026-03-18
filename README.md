@@ -109,8 +109,19 @@ All decisions should be reviewed by a human adjuster.
 
 ---
 
+## 📸 Demo
+
+<img width="2880" height="1519" alt="Screenshot 2026-03-17 231823" src="https://github.com/user-attachments/assets/4e8f34da-d1b5-4faa-bd72-a1de73dc3843" />
+<img width="2880" height="1432" alt="Screenshot 2026-03-17 231850" src="https://github.com/user-attachments/assets/c9736a25-bd07-438d-8b1f-ab4995a22cf8" />
+<img width="2880" height="967" alt="Screenshot 2026-03-17 232420" src="https://github.com/user-attachments/assets/76bb57c7-6ddb-41c1-a13f-5327403f09d0" />
+
+
+
+---
+
 ## 👨‍💻 Author
 
 Vladyslav Vashchuk  
 Computer Science Student  
 Interested in AI, product development, and real-world applications
+
