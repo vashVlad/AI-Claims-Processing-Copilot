@@ -1,0 +1,17 @@
+SAMPLE_CLAIMS = [
+    {"id": "CLM-001", "description": "My car was rear-ended at a stoplight. Bumper and trunk damaged, no injuries."},
+    {"id": "CLM-002", "description": "Kitchen fire spread to living room last night. Family evacuated, extensive damage. Need emergency housing."},
+    {"id": "CLM-003", "description": "Slipped on wet floor at grocery store. Injured my back and knee, taken to ER, may need surgery. Have witnesses."},
+    {"id": "CLM-004", "description": "My car got damaged somehow. Not sure exactly what happened or when. Whole car basically destroyed, need full replacement immediately."},
+    {"id": "CLM-005", "description": "Tree fell on roof during last night's storm. Roof and attic damaged, no injuries."},
+    {"id": "CLM-006", "description": "Pipe burst in basement while I was on vacation. Flooring and walls soaked, mold starting to form."},
+    {"id": "CLM-007", "description": "Minor fender bender in parking lot. Small scratch on front bumper, exchanged info with other driver."},
+    {"id": "CLM-008", "description": "Someone broke into my car overnight. Stereo and laptop stolen, window smashed."},
+    {"id": "CLM-009", "description": "I was in an accident. The damages are very bad and I need everything covered as soon as possible. It happened recently."},
+    {"id": "CLM-010", "description": "Rear-ended another vehicle on the highway. Airbags deployed, driver has whiplash, passenger has a broken arm."},
+    {"id": "CLM-011", "description": "Hail storm damaged my roof, gutters, and two skylights. No injuries, but leaking has started."},
+    {"id": "CLM-012", "description": "Dog bite incident at neighbor's house. Child required stitches and a tetanus shot at urgent care."},
+    {"id": "CLM-013", "description": "Garage caught fire due to electrical fault. Two vehicles inside were destroyed along with tools and equipment."},
+    {"id": "CLM-014", "description": "Windshield cracked from a rock on the highway. No other damage, car is drivable."},
+    {"id": "CLM-015", "description": "Flooding from nearby river entered ground floor. Furniture and flooring destroyed. Displacement required."},
+]
