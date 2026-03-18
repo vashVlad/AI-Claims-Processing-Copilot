@@ -86,7 +86,7 @@ Structured Data (JSON)
 
 ## 📸 Demo
 
-📹Video - https://www.loom.com/share/b0de8c11254b4045bc97082f067d065d
+📹Video - https://www.loom.com/share/94f9db91b571464e9852d4a949d59834
 
 <img width="2880" height="1449" alt="Screenshot 2026-03-18 133026" src="https://github.com/user-attachments/assets/88abd9bd-c585-433f-a1b2-a2c5893b1a48" />
 
